@@ -34,12 +34,10 @@ A modern, user-friendly personal portfolio interface that presents an introducti
 6. Prepared screenshots and project documentation.
 
 ## Figma links
-- **Figma design file:** Replace this text with your Figma design link.
-- **Clickable prototype:** Replace this text with your Figma prototype link.
+- **Figma design file:https://www.figma.com/design/pBzYQ59wKjeNC5T2nxxcup/Personal-Portfolio-App-UI-Design?node-id=0-1&t=qGsVgAQ0f9FktkSY-1
+- **Clickable prototype:https://www.figma.com/proto/pBzYQ59wKjeNC5T2nxxcup/Personal-Portfolio-App-UI-Design?node-id=12-7&p=f&t=ejBOxKEfgyXcpniX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=51%3A2
 
 ## Project files
-- `screenshots/` — Add screenshots of the completed screens.
-- `design-documentation/` — Add wireframes, design notes, and supporting documentation.
+- `screenshots/` — Added screenshots of the completed screens.
+  
 
-## Notes
-Add only screenshots and design materials you created. Confirm that the Figma links are viewable by your reviewer before submitting.
